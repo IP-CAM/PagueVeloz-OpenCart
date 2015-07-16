@@ -62,3 +62,6 @@ No caso de pagamentos (boletos e cartões de crédito), assim que o seu cliente 
 
 ### Nos ajude também
 [![Doação](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HUBL785QDAXXG)
+
+### Download
+(http://www.opencart.com/index.php?route=extension/extension/info&extension_id=23083)[http://www.opencart.com/index.php?route=extension/extension/info&extension_id=23083]
