@@ -11,6 +11,8 @@ No caso de pagamentos (boletos e cartões de crédito), assim que o seu cliente 
 
 **Não perca tempo e comece a utilizar.**
 
+### Nos ajude também
+[![Doação](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HUBL785QDAXXG)
 
 ### Como Instalar em seu OpenCart
 <ol>
@@ -57,6 +59,13 @@ No caso de pagamentos (boletos e cartões de crédito), assim que o seu cliente 
 * **post.customer.add:** Envia SMS confirmado cadastrado (Cliente)
 * **post.customer.edit:** Envia SMS confirmando alteração (Cliente)
 
+### Retorno Automático
+<ol>
+<li>Acesse as configurações do CronJob (Entre em contato com o suporte de sua hospedagem) ou acesse [https://www.setcronjob.com/](https://www.setcronjob.com/)</li>
+<li>Cadastre a URL http://www.MY-STORE.com/index.php?route=payment/pagueveloz/callback</li>
+<li>Pronto!</li>
+</ol>
+
 ### Dúvidas? Bug?
 #### [http://www.valdeirsantana.com.br](http://www.valdeirsantana.com.br "Valdeir Santana")
 
@@ -64,4 +73,4 @@ No caso de pagamentos (boletos e cartões de crédito), assim que o seu cliente 
 [![Doação](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HUBL785QDAXXG)
 
 ### Download
-(http://www.opencart.com/index.php?route=extension/extension/info&extension_id=23083)[http://www.opencart.com/index.php?route=extension/extension/info&extension_id=23083]
+[http://www.opencart.com/index.php?route=extension/extension/info&extension_id=23083](http://www.opencart.com/index.php?route=extension/extension/info&extension_id=23083)
