@@ -61,7 +61,8 @@ No caso de pagamentos (boletos e cartões de crédito), assim que o seu cliente 
 
 ### Retorno Automático
 <ol>
-<li>Acesse as configurações do CronJob (Entre em contato com o suporte de sua hospedagem) ou acesse [https://www.setcronjob.com/](https://www.setcronjob.com/)</li>
+<li>Acesse as configurações do CronJob (Entre em contato com o suporte de sua hospedagem) ou acesse  https://www.easycron.com?ref=35743
+</li>
 <li>Cadastre a URL http://www.MY-STORE.com/index.php?route=payment/pagueveloz/callback</li>
 <li>Pronto!</li>
 </ol>
