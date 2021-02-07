@@ -1,77 +1,77 @@
 ![PagueVeloz](https://www.pagueveloz.com.br/Content/Img/logo-pagueveloz-topo_03.png)
 
-### Como Funciona
-**Utilizar o PagueVeloz é muito simples e rápido.**
+### How it works
+** Using PagueVeloz is very simple and fast. **
 
-Depois que você conhecer todas as funcionalidades do PagueVeloz, você vai querer utilizar ele imediatamente. Pode começar a comemorar, pois é exatamente assim que acontece. Basta se cadastrar e começar a utilizar. Tudo sem complicação e sem burocracia!
+Once you know all the features of PagueVeloz, you will want to use it immediately. You can start celebrating, because that's exactly how it happens. Just register and start using. All without complications and without bureaucracy!
 
-**E as vantagens não param por aí.**
+** And the advantages don't end there. **
 
-No caso de pagamentos (boletos e cartões de crédito), assim que o seu cliente efetua o pagamento e o dinheiro aparece na conta do PagueVeloz, você já pode solicitar o resgate do valor que desejar. Dependendo do horário de solicitação do saque, a transferência é feita no mesmo dia ou em, no máximo, 24 horas depois. E se for para pagar contas, o sistema libera o dinheiro na hora em que estiver efetuando o pagamento de sua conta.
+In the case of payments (boletos and credit cards), as soon as your customer makes the payment and the money appears in the PagueVeloz account, you can already request the redemption of the amount you want. Depending on the time of withdrawal request, the transfer is made on the same day or at most 24 hours later. And if it is to pay bills, the system releases the money at the time you are paying your account.
 
-**Não perca tempo e comece a utilizar.**
+** Don't waste time and start using it. **
 
-### Nos ajude também
-[![Doação](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HUBL785QDAXXG)
+### Help us too
+[! [Donation] (https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)] (https://www.paypal.com/cgi-bin/webscr?cmd=_s- xclick & hosted_button_id = HUBL785QDAXXG)
 
-### Como Instalar em seu OpenCart
+### How to Install on your OpenCart
 <ol>
-<li>Acesse seu painel administrativo</li>
-<li>Navegue até o menu Extensions > Extension Installer</li>
-<li>Envie seu arquivo PagueVeloz.ocmod.zip e aguarde.</li>
-<li>Após a instação, vá o menu Extensions > Payments</li>
-<li>Procure por "PagueVeloz" e clique no botão verde (Install)</li>
-<li>Depois de habilitado clique no botão azul (Edit)</li>
-<li>Configure e salve! Pronto.</li>
+<li> Access your administrative panel </li>
+<li> Navigate to the Extensions menu> Extension Installer </li>
+<li> Submit your PagueVeloz.ocmod.zip file and wait. </li>
+<li> After installation, go to the Extensions> Payments menu </li>
+<li> Search for "PagueVeloz" and click the green button (Install) </li>
+<li> Once enabled click on the blue button (Edit) </li>
+<li> Configure and save! There. </li>
 </ol>
 
-### Descrição de cada campo **
-##### Geral
-* **Situação:** Habilita/Desabilita o módulo (Formas de Pagamento e envio de SMS)
-* **E-mail:** E-mail cadastrado no site https://www.pagueveloz.com.br/
-* **Token:** Token de Integração, recebido ao criar sua conta.
-* **Zona Geográfica:** Habilita as formas de pagamento para determinado País ou Estado. [Saíba Mais](http://docs.opencart.com/system/localisation/geo-zone/)
-* **Ordem:** Ordem de colcação
+### Description of each field **
+##### General
+* ** Status: ** Enables / Disables the module (Payment methods and SMS sending)
+* ** E-mail: ** E-mail registered on the website https://www.pagueveloz.com.br/
+* ** Token: ** Integration Token, received when creating your account.
+* ** Geographic Area: ** Enables payment methods for a specific country or state. [Find out more] (http://docs.opencart.com/system/localisation/geo-zone/)
+* ** Order: ** Order of placement
 
 ##### Boleto
-* **Situação:** Habilita/Desabilita a forma de pagamento boleto.
-* **Vencimento:** Indica quantos dias o cliente terá para efetuar o pagamento.
-* **Cedente:** Nome da Empresa.
-* **CPF/CNPJ Cendente:** CPF do responsável ou CNPJ da Empresa.
-* **Observação:** Instruções para o caixa.
-* **Boleto Impresso:** Situação do pedido quando o boleto for cancelado.
-* **Cancelado:** Situação do pedido quando o boleto for cancelado.
-* **Completo:** Situação  do pedido quando o boleto for pago.
+* ** Situation: ** Enables / Disables the boleto payment method.
+* ** Expiration: ** Indicates how many days the customer will have to make the payment.
+* ** Assignor: ** Company Name.
+* ** CPF / CNPJ Pending: ** CPF of the person responsible or CNPJ of the Company.
+* ** Note: ** Instructions for the cashier.
+* ** Printed Boleto: ** Order status when the boleto is canceled.
+* ** Canceled: ** Order status when the boleto is canceled.
+* ** Complete: ** Order status when the payment slip is paid.
 
 ##### SMS
-* **Envio de SMS:** Habilita/Desabilita o envio de SMS
-* **Celular:** Celular do remetente
-* **post.order.add:** Envia SMS para o cliente no ato da compra
-* **post.order.edit:** Envia SMS para o cliente quando o pedido for editado
-* **post.order.delete:** Envia SMS para o cliente quando o pedido for deletado
-* **post.order.history.add:** Envia SMS quando o pedido registrar uma alteração no histórico
-* **post.admin.review.edit:** Envia SMS quando um comentário for editado
-* **post.review.add:** Envia SMS quando um comentário for adicionado
-* **post.admin.affiliate.approve:** Envia SMS comentário quando cadastrado de afiliado for aprovado
-* **post.admin.affiliate.transaction.add:** Envia SMS quando houver uma transação (Afiliad)
-* **post.affiliate.add:** Envia SMS confirmado cadastrado (Afiliado)
-* **post.affiliate.edit:** Envia SMS confirmando alteração (Afiliado)
-* **post.customer.add:** Envia SMS confirmado cadastrado (Cliente)
-* **post.customer.edit:** Envia SMS confirmando alteração (Cliente)
+* ** Sending SMS: ** Enables / Disables sending SMS
+* ** Mobile: ** Sender's mobile
+* ** post.order.add: ** Sends SMS to the customer at the time of purchase
+* ** post.order.edit: ** Sends SMS to the customer when the order is edited
+* ** post.order.delete: ** Sends SMS to the customer when the order is deleted
+* ** post.order.history.add: ** Sends SMS when the order records a change in history
+* ** post.admin.review.edit: ** Sends SMS when a comment is edited
+* ** post.review.add: ** Sends SMS when a comment is added
+* ** post.admin.affiliate.approve: ** Sends SMS comment when registered affiliate is approved
+* ** post.admin.affiliate.transaction.add: ** Sends SMS when there is a transaction (Afiliad)
+* ** post.affiliate.add: ** Sends registered confirmed SMS (Affiliate)
+* ** post.affiliate.edit: ** Sends SMS confirming change (Affiliate)
+* ** post.customer.add: ** Sends registered confirmed SMS (Client)
+* ** post.customer.edit: ** Sends SMS confirming change (Client)
 
-### Retorno Automático
+### Automatic Return
 <ol>
-<li>Acesse as configurações do CronJob (Entre em contato com o suporte de sua hospedagem) ou acesse  https://www.easycron.com?ref=35743
+<li> Access CronJob settings (contact your hosting support) or visit https://www.easycron.com?ref=35743
 </li>
-<li>Cadastre a URL http://www.MY-STORE.com/index.php?route=payment/pagueveloz/callback</li>
-<li>Pronto!</li>
+<li> Register the URL http://www.MY-STORE.com/index.php?route=payment/pagueveloz/callback </li>
+<li> Ready! </li>
 </ol>
 
-### Dúvidas? Bug?
-#### [http://www.valdeirsantana.com.br](http://www.valdeirsantana.com.br "Valdeir Santana")
+### Doubts? Bug?
+#### [http://www.valdeirsantana.com.br] (http://www.valdeirsantana.com.br "Valdeir Santana")
 
-### Nos ajude também
-[![Doação](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HUBL785QDAXXG)
+### Help us too
+[! [Donation] (https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)] (https://www.paypal.com/cgi-bin/webscr?cmd=_s- xclick & hosted_button_id = HUBL785QDAXXG)
 
 ### Download
-[http://www.opencart.com/index.php?route=extension/extension/info&extension_id=23083](http://www.opencart.com/index.php?route=extension/extension/info&extension_id=23083)
+[http://www.opencart.com/index.php?route=extension/extension/info&extension_id=23083)(http://www.opencart.com/index.php?route=extension/extension/info&extension_id=23083) 
